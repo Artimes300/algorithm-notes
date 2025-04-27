@@ -28,4 +28,4 @@ int main() {
 	cout<<"The result:"<<find(coins, amount)<<endl;
    return 0;		
 }
-//Update this code.
+//Editing this code.
