@@ -16,3 +16,7 @@ This repo contains implementations of data structures and algorithms in C++.
 
 ## 💡 Dynamic Programming
 - [Fibonacci (Memoization)](dp/fibonacci_memo.cpp)
+
+
+## 🤑 Greedy Programming
+- [Coin Change](greedy/coin_change.cpp)
