@@ -20,3 +20,10 @@ This repo contains implementations of data structures and algorithms in C++.
 
 ## 🤑 Greedy Programming
 - [Coin Change](greedy/coin_change.cpp)
+
+## 😯 Searching Algorithms
+- [Linear Searching](searching/linear_searching.cpp)
+- [Binary Searching](searching/binary_searching.cpp)
+
+
+
