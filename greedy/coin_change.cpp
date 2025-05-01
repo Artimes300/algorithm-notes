@@ -2,7 +2,7 @@
 #include <vector>
 #include <algorithm>
 using namespace std;
-// Function to find the minimum number of coins needed to make up a given amount
+// Function to find the minimum number of coins needed to make up a given amount.
 int find(vector<int>& coins, int amount) {
 	int count = 0; // Initialize the count of coins to 0
 	sort(coins.begin(), coins.end(), greater<int>()); // Sorting coins from largest to smallest {25, 10, 5, 1}
