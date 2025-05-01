@@ -1,4 +1,5 @@
 // Basit Bubble Sort algoritması
+//Komşu elemanları karşılaştırır ve büyük olanı sağa iter (baloncuk gibi yukarı çıkar).
 #include<iostream>
 using namespace std;
 
