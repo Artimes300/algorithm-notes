@@ -7,6 +7,7 @@ This repo contains implementations of data structures and algorithms in C++.
 - [Merge Sort](sorting/merge_sort.cpp)
 - [Quick Sort](sorting/quick_sort.cpp)
 - [Insertion Sort](sorting/insertion_sort.cpp)
+- [Selection Sort](sorting/selection_sort.cpp)
 
 ## 🌲 Tree Algorithms
 - [Binary Tree Traversal](trees/binary_tree_traversal.cpp)
